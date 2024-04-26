@@ -1,0 +1,42 @@
+Mughal Question 
+1. Who was the founder of the Mughal Empire?
+2. Name one famous Mughal emperor known for his policy of religious tolerance.
+3. What geographical regions did the Mughal Empire encompass?
+4. What architectural masterpiece is often associated with the Mughal era?
+5. Which emperor is known for his patronage of art and culture?
+6. What policy did Akbar implement to promote religious harmony?
+7. What were the main influences on Mughal art and architecture?
+8. What marked the decline of the Mughal Empire?
+9. Which regional powers emerged during the later years of the Mughal era?
+10. What historical period followed the decline of the Mughal Empire in India?
+
+Deep learning
+1. How do deep neural networks process data?
+2. What does deep learning mimic?
+3. Name one domain where deep learning has made significant advancements.
+4. What tasks can deep learning models perform in computer vision?
+5. How has deep learning impacted healthcare?
+
+
+Global warming, an intricate and pressing environmental issue, refers to the long-term rise in Earth's average surface temperature due to human activities, primarily the emission of greenhouse gases such as carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O). These gases trap heat in the Earth's atmosphere, leading to the greenhouse effect, which disrupts the planet's natural climate balance.
+
+The phenomenon of global warming has far-reaching consequences across various aspects of life on Earth. One of the most evident effects is the alteration of weather patterns, causing extreme weather events like hurricanes, heatwaves, droughts, and heavy rainfall, leading to disruptions in ecosystems, agriculture, and human settlements. Glaciers and polar ice caps are melting at accelerated rates, contributing to rising sea levels, posing a significant threat to coastal regions and island nations.
+
+Human activities, particularly the burning of fossil fuels for energy, industrial processes, deforestation, and intensive agriculture, are the primary drivers of global warming. The exponential increase in greenhouse gas emissions since the Industrial Revolution has accelerated the pace of climate change, surpassing the Earth's natural capacity to mitigate its effects.
+
+The impacts of global warming are not limited to environmental realms; they also have profound social, economic, and political implications. Vulnerable populations, including low-income communities and developing countries, are disproportionately affected by climate-related disasters, exacerbating existing inequalities and straining resources for adaptation and recovery efforts. Moreover, global warming poses risks to food security, water availability, and public health, amplifying the urgency for concerted international action.
+
+Addressing global warming requires a multifaceted approach involving mitigation strategies to reduce greenhouse gas emissions and adaptation measures to cope with the inevitable impacts of climate change. The Paris Agreement, adopted in 2015 by nearly every country in the world, represents a landmark effort to unite nations in combating climate change by setting targets for emission reductions and promoting renewable energy and sustainable practices.
+
+However, combating global warming necessitates collective action at all levels of society, from individuals making environmentally conscious choices to governments implementing policies that prioritize environmental sustainability. Only through collaborative efforts and a commitment to preserving the planet for future generations can we effectively mitigate the impacts of global warming and secure a sustainable future for all.
+
+1. What are the primary causes of global warming, and how do they contribute to the phenomenon?
+2. How does global warming manifest in terms of environmental impacts such as weather pattern changes, melting ice caps, and rising sea levels?
+3. What are the social and economic consequences of global warming, particularly for vulnerable populations and developing countries?
+4. How do human activities, such as burning fossil fuels and deforestation, exacerbate global warming?
+5. What international agreements and initiatives exist to address global warming, and what are their key objectives and strategies?
+6. What are some potential solutions and mitigation strategies for reducing greenhouse gas emissions and combating global warming?
+7. How can individuals contribute to efforts to mitigate global warming in their daily lives?
+8. What role do renewable energy sources play in addressing global warming, and how can they be effectively integrated into energy systems?
+9. What are the challenges and barriers to global cooperation in addressing climate change, and how can they be overcome?
+10. How might the impacts of global warming evolve in the future, and what steps can be taken to adapt to these changes effectively?
